@@ -1,0 +1,53 @@
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    
+}
+.header_top{
+    height:70px;
+    background-color:#2E3A46;
+}
+.disks{
+    background-color:#1E2D3B ;
+    padding:50px;
+}
+.content{
+    display:flex;
+    flex-wrap: wrap;
+}
+.card-disk{
+    width:calc(100% / 5);
+    margin-bottom:5px;
+}
+.card-disk:hover{
+        cursor: pointer;
+        transform: scale(1.1);
+}
+.disk{
+    background-color:#384450;
+    height:380px;
+    margin-left:40px;
+    padding:15px;
+    margin-top:20px;
+}
+.disk img{
+    padding:5px;
+}
+.disk  h3{
+    color:white;
+    text-transform: uppercase;
+    padding:15px 5px;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px;
+    font-size: 23px;
+}
+.disk >  div{
+    color:#808080;
+    line-height: 1.2;
+    font-size: 19px;
+}
