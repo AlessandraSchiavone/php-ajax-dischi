@@ -17,7 +17,7 @@
     ?>
     <main>
         <section class="disks ">
-            <div class="content container">
+            <div class="content ">
                         <?php 
                             include __DIR__. "/database.php";
                             foreach ($dischi as $disco) {

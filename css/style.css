@@ -9,45 +9,60 @@ body{
     
 }
 .header_top{
-    height:70px;
-    background-color:#2E3A46;
+    height:90px;
+    background-image: url('https://images.everyeye.it/img-notizie/sony-vintage-stampato-vinile-30-anni-v3-321575-1280x720.jpg');
+    background-position-y:120%;
+}
+.header_top h1{
+    line-height: 90px;
+    vertical-align: middle;
+    padding-left:10px; 
+    font-weight: 900;
+    font-style: italic;
+    color:rgb(250, 243, 243);
+    text-shadow: 3px 3px 3px rgb(233, 179, 108);
+    
 }
 .disks{
-    background-color:#1E2D3B ;
-    padding:50px;
+    background-color:#2b2636 ;
+    height:calc(100vh - 90px);
 }
 .content{
     display:flex;
     flex-wrap: wrap;
 }
 .card-disk{
-    width:calc(100% / 5);
-    margin-bottom:5px;
+    width:calc(100% / 6 - 20px);
+    margin-bottom:10px;
 }
 .card-disk:hover{
-        cursor: pointer;
-        transform: scale(1.1);
+    cursor: pointer;
+    transform: scale(1.1);
 }
 .disk{
-    background-color:#384450;
+    background-color:#787481;
     height:380px;
     margin-left:40px;
     padding:15px;
     margin-top:20px;
 }
 .disk img{
-    padding:5px;
+    padding:2px;
+    height:220px;
+    width:220px;
 }
 .disk  h3{
     color:white;
     text-transform: uppercase;
-    padding:15px 5px;
+    padding:8px 5px;
     font-weight: 700;
-    text-shadow: 1px 1px 1px;
-    font-size: 23px;
+    text-shadow: 2px 2px 2px rgb(196, 142, 173);
+    font-size: 22px;
 }
 .disk >  div{
-    color:#808080;
+    color:#30302f;
+    font-weight: 900;
     line-height: 1.2;
-    font-size: 19px;
+    font-size: 16px;
+    font-style: italic;
 }

@@ -2,18 +2,18 @@
 
     $dischi = [
         [
-            "poster"=> "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg",
-            "title" => "New Jersey",
-            "author" => "Bon Jovi",
-            "genre" => "Rock",
-            "year"=> "1988"
+            "poster"=> "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Feversandmirrors_brighteyes.jpg/220px-Feversandmirrors_brighteyes.jpg",
+            "title" => "Fevers and Mirrors",
+            "author" => "Bright Eyes",
+            "genre" => "Folk Rock",
+            "year"=> "2000"
         ],
         [
-            "poster"=> "https://img.discogs.com/vknPDdrqRbT92pNRX0W4I5N91jg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1246953-1448927086-6590.jpeg.jpg",
-            "title" => "Live at Wembley 86",
-            "author" => "Queen",
-            "genre" => "Pop",
-            "year"=> "1992"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg",
+            "title" => "Brave new World",
+            "author" => "Iron Maiden",
+            "genre" => "Metal",
+            "year"=> "2000"
         ],
         [
             "poster"=> "https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg",
@@ -30,11 +30,18 @@
             "year"=> "2018"
         ],
         [
-            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg",
-            "title" => "Brave new World",
-            "author" => "Iron Maiden",
-            "genre" => "Metal",
-            "year"=> "2000"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
+            "title" => "Made in Japan",
+            "author" => "Deep Purple",
+            "genre" => "Rock",
+            "year"=> "1972"
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/71dTyTzTrvL._AC_SL1200_.jpg",
+            "title" => "The Legend Of 1900",
+            "author" => "Ennio Morricone",
+            "genre" => "Classic",
+            "year"=> "2017"
         ],
         [
             "poster"=> "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
@@ -44,13 +51,6 @@
             "year"=> "2002"
         ],
         [
-            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
-            "title" => "Made in Japan",
-            "author" => "Deep Purple",
-            "genre" => "Rock",
-            "year"=> "1972"
-        ],
-        [
             "poster"=> "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
             "title" => "And Justice for All",
             "author" => "Metallica",
@@ -58,18 +58,32 @@
             "year"=> "1988"
         ],
         [
-            "poster"=> "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
-            "title" => "Hard Wired",
-            "author" => "Dave Weckl",
-            "genre" => "Jazz",
-            "year"=> "1994"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/81N6rCK9IYL._AC_SL1040_.jpg",
+            "title" => "Be Here Now",
+            "author" => "Oasis",
+            "genre" => "Rock",
+            "year"=> "1997"
         ],
         [
-            "poster"=> "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
-            "title" => "Bad",
-            "author" => "Michael Jacjson",
-            "genre" => "Pop",
-            "year"=> "1987"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/71EFb-BEAeL._AC_SX522_.jpg",
+            "title" => "Legend",
+            "author" => "Bob Marley",
+            "genre" => "Reggae",
+            "year"=> "1984"
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/51UtWpxbNYL._AC_SL1500_.jpg",
+            "title" => "The Dark Side of the Moon",
+            "author" => "Pink Floyd",
+            "genre" => "Rock",
+            "year"=> "1973"
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/61quAjwYMtS._AC_SL1000_.jpg",
+            "title" => "Nevermind",
+            "author" => "Nirvana",
+            "genre" => "Rock",
+            "year"=> "1991"
         ]
 
         ];
